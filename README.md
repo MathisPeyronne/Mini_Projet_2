@@ -1,4 +1,9 @@
 # MP2 - IC Wars
+
+<p align = "center">
+<img src="img/icwars1.png" height="320px"> <img src="img/icwars2.png" height="320px"> 
+</p>
+
 ## LAUNCH: Run Play.java
 
    
